@@ -1,0 +1,39 @@
+body {
+    font-family:'Courier New';
+    background-color: #f4f4f4;
+    padding: 20px;
+}
+.container {
+    max-width: 400px;
+    margin: auto;
+    background: white;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+table tr td{
+    padding: 10px 1px;
+}
+
+button, input{
+    font-family: 'Courier New';
+    border-radius: 50px;
+    padding: 5px;
+}
+
+.result {
+    margin-top: 20px;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.lulus {
+    /* background-color: #d4edda; Hijau */
+    color: #039926;
+}
+
+.gagal {
+    /* background-color: #f8d7da; Merah */
+    color: #ff0019;
+}
